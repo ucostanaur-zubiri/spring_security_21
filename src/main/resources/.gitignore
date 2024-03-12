@@ -33,6 +33,4 @@ build/
 .vscode/
 
 # application.properties
-/config/*
-!/config/README.md
-!/config/*.example
+application.properties
